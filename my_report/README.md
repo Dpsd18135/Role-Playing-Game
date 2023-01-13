@@ -296,3 +296,19 @@ Dialogue όμως ο χρήστης δεν μπορεί να κάνει μόνο
 
 
 # Sources
+
+https://k-ramstack.itch.io/mushroom-art-pack
+
+https://k-ramstack.itch.io/mushroom-art-pack
+
+https://assetstore.unity.com/packages/vfx/particles/fire-explosions/free-2d-impact-fx-201222
+
+https://assetstore.unity.com/packages/3d/animations/free-spine-2d-character-animation-177560
+
+https://assetstore.unity.com/packages/2d/characters/tiny-rpg-forest-114685
+
+https://ninjikin.itch.io/water
+
+https://assetstore.unity.com/packages/2d/environments/rpg-worlds-caves-167274
+
+Τα Tutorial του Unity, το Stack Overflow, τα Forum του Unity, και τα αμετρητα βιντεο που βρήκα και είδα
